@@ -20,7 +20,7 @@ The API requires an API key for certain endpoints. Include the `api-key` header 
 
 ## Endpoints and Usage
 
-For detailed information on the API's endpoints, request and response formats, authentication, and usage instructions, please refer to the [API Documentation](link_to_documentation.md).
+For detailed information on the API's endpoints, request and response formats, authentication, and usage instructions, please refer to the [[API Documentation](link_to_documentation.md)](https://documenter.getpostman.com/view/31833531/2s9Ykn8hEQ).
 
 ## Installation and Setup
 
